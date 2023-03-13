@@ -1,0 +1,48 @@
+/* Boek nu knop */
+#knoprechts {
+    float: right;
+    background-color: #5C5CFF;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 20px !important;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    border-radius: 10px !important;
+}
+
+#knoprechts:hover {
+    background-color: #8A8AFF;
+}
+
+tbody tr {
+    border-color: black;
+    border-width: 3px;
+    background-color: #FFCCCB;
+}
+
+h4 {
+    color: gray !important;
+}
+
+.form-check {
+    color: orange;
+    font-size: large;
+}
+
+.form-group {
+    width: 500px;
+    color: grey;
+}
+
+#ondertekst {
+    color:orange !important;
+}
+
+#kType {
+    width: 150px;
+}
+
+#modalknop {
+    background-color: #5C5CFF !important;
+}

@@ -1,0 +1,77 @@
+/* CSS voor index.html */
+.navbar {
+    background-image: url("hotelbanner1.jpg");
+    background-repeat: no-repeat;
+}
+
+.navbar a {
+    color: 	#5A5A5A !important;
+    font-size: 17px;
+}
+
+/* Footer CSS */
+footer {
+    margin-top: 30px;
+    background-color: rgb(217, 231, 250);
+    border: solid;
+    border-width: 1px;
+    border-color: darkgray;
+}
+
+.text-uppercase {
+    color: gray;
+}
+
+a, p {
+    color: gray !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: black !important;
+}
+
+/* Member CSS */
+#memberacc {
+    height: 60px;
+    width: 60px;
+    margin-left: 15px;
+}
+
+#memberworden {
+    width: 400px;
+    height: 300px;
+    background-color: #FFCCCB;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+/* Member worden knop navbar */
+#memberknop {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #5C5CFF;
+    border-radius: 10px !important;
+}
+
+#memberknop:hover {
+    background-color: #8A8AFF;
+}
+
+/* Login knop navbar */
+#loginknop {
+    float: left;
+    position: absolute;
+    top: 21px;
+    right: 180px;
+    background-color: #5C5CFF;
+    border-radius: 10px !important;
+}
+
+#loginknop:hover {
+    background-color: #8A8AFF;
+}

@@ -1,0 +1,53 @@
+/* Kameroverzicht titel boven tabel */
+h4 {
+    margin-top: 5px !important;
+    margin-left: 10px;
+    color: gray !important;
+}
+
+/* Tabel die alle kamers genereerd */
+.table tr {
+    border-color: #FFCCCB !important; 
+    border-width: 5px;
+}
+
+#kameroverzichttitel {
+    margin-bottom: 50px;
+    color: grey;
+}
+
+tbody, thead {
+    color: gray;
+}
+
+table {
+    margin-left: 10px;
+    margin-right: 50px !important; 
+}
+
+#tabelkoppen {
+    text-align: center;
+}
+    
+.knoppen, button {
+    background-color: #5C5CFF;
+    color: white;
+    border: 0px;
+    padding: 10px;
+    border-radius: 10px !important;
+}
+    
+/* Knop om nieuwe kamer aan te maken */
+#knopnieuwekamer {
+    margin-left: 10px;
+    background-color: #5C5CFF;
+    color: white;
+    border: 0px;
+    padding: 10px;
+    border-radius: 10px !important;
+} 
+
+.knoppen:hover, button:hover, #knopnieuwekamer:hover {
+    background-color: #8A8AFF;
+}
+
